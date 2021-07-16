@@ -1,0 +1,25 @@
+p.choice{
+		font-size: 140%;
+		color: black;
+		font-family: 'Montserrat', sans-serif;
+		border: 4px double black; /* Параметры границы */
+		background: #BFD2D9; /* Цвет фона */
+		padding: 10px; /* Поля вокруг текста */
+		text-align: center; 
+		width:20%;
+		margin:1%;
+		position: absolute;
+		right: 38%;
+	
+}
+p.category{
+		font-size: 140%;
+		color: black;
+		font-family: "Lucida Console","Courier New", monospace;
+		padding: 10px; /* Поля вокруг текста */
+		text-align: left; 
+		margin-top:5%;
+		margin-bottom: 0;
+	
+	
+}

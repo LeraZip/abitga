@@ -1,0 +1,63 @@
+html {
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+body{
+	background: white;
+	
+}
+.popit{
+	position:fixed;
+	float: right;
+}
+
+
+
+.active {
+  background: radial-gradient(#8c0000, red);  
+}
+
+.inactive {
+  background-color: red;
+}
+
+
+.active2 {
+  background: radial-gradient(#b55304, #ff7300);  
+}
+
+.inactive2 {
+  background-color: #ff7300;
+}
+
+.active3 {
+  background: radial-gradient(#b8ae2e, #f2d12c);  
+}
+
+.inactive3 {
+  background-color: #f2d12c;
+}
+
+.active4 {
+  background: radial-gradient(#33a15c, #4bde81);  
+}
+
+.inactive4 {
+  background-color: #4bde81;
+}
+.active5 {
+  background: radial-gradient(#385ba8, #426fcf);  
+}
+
+.inactive5 {
+  background-color: #426fcf;
+}
+
+
+.active6 {
+  background: radial-gradient(#9b29ba, #be30e6);  
+}
+
+.inactive6 {
+  background-color: #be30e6;
+}
